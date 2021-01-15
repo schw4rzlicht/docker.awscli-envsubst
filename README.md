@@ -1,2 +1,2 @@
-# docker.awscli-envsubst
-Simple image based on amazon/aws-cli
+# docker.awscli-gettext
+Simple image based on amazon/aws-cli with gettext installed
